@@ -1,0 +1,2 @@
+#Key = interval in seconds e.g A = 4
+- = 0.1
